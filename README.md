@@ -2,9 +2,8 @@
 
 ### High Fidelity Prototype
 
-[View High Fidelity Prototype on Figma](<https://embed.figma.com/proto/QZciqmqaeEavl1Z16iRrXP/Diner-Bakery-Hi-Fi-Prototypes-(Community)?node-id=402-2044&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=402%3A2043&starting-point-node-id=427%3A1489&embed-host=share>)
 
-**[View High Fidelity Prototype on Figma](<https://www.figma.com/proto/QZciqmqaeEavl1Z16iRrXP/Diner-Bakery-Hi-Fi-Prototypes-(Community)?node-id=403-2218&node-type=canvas&t=QlL9bx4g11OSABRn-1&scaling=scale-down&content-scaling=fixed&page-id=402%3A2043&starting-point-node-id=427%3A1489>)**
+**[View High Fidelity Prototype on Figma](<https://www.figma.com/proto/QZciqmqaeEavl1Z16iRrXP/Diner-Bakery-Hi-Fi-Prototypes-(Community)?node-id=421-3556&node-type=frame&t=gr4DmLr3A1tsO30W-1&scaling=scale-down&content-scaling=fixed&page-id=402%3A2043&starting-point-node-id=427%3A1489>)**
 
 | Splash Screen                                        | Log in Page Screen                                      | Profile Page                                          | Home Page                                            |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
@@ -22,7 +21,7 @@
 
 ### Low Fidelity Prototype
 
-**[View Low Fidelity Prototype on Figma](<Your Figma Low Fidelity Prototype Link Here>)**
+**[View Low Fidelity Prototype on Figma](<https://www.figma.com/proto/lxrIhhxLRsRxO54L7f517M/RAG-Land-Advice-Low-Fi-by-Owiny-Marvin-22%2FU%2F3783%2FEVE?node-id=2-5&node-type=canvas&t=6ba7DKprxWmcAXgm-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2>)**
 
 | Splash Screen                                        | Sign Up Screen                                         | Home Screen                                          | View Documents Screen                                 |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
