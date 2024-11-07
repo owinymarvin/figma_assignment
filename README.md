@@ -2,7 +2,9 @@
 
 ### High Fidelity Prototype
 
-**[View High Fidelity Prototype on Figma](<Your Figma High Fidelity Prototype Link Here>)**
+[View High Fidelity Prototype on Figma](<https://embed.figma.com/proto/QZciqmqaeEavl1Z16iRrXP/Diner-Bakery-Hi-Fi-Prototypes-(Community)?node-id=402-2044&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=402%3A2043&starting-point-node-id=427%3A1489&embed-host=share>)
+
+**[View High Fidelity Prototype on Figma](<https://www.figma.com/proto/QZciqmqaeEavl1Z16iRrXP/Diner-Bakery-Hi-Fi-Prototypes-(Community)?node-id=403-2218&node-type=canvas&t=QlL9bx4g11OSABRn-1&scaling=scale-down&content-scaling=fixed&page-id=402%3A2043&starting-point-node-id=427%3A1489>)**
 
 | Splash Screen                                        | Log in Page Screen                                      | Profile Page                                          | Home Page                                            |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
@@ -32,4 +34,4 @@
 
 | Settings Screen                                      |                                                      |                                                     |                                                       |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| ![Low Fidelity Settings Screen](<Low Fidelity/9. Settings Screen.png>) |                                                       |                                                       |                                                       |
+| ![Low Fidelity Settings Screen](<Low Fidelity/9. User Profile Screen real.png>) |                                                       |                                                       |                                                       |
