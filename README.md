@@ -15,7 +15,7 @@
 
 | Payment Screen                                       | Payment Confirmation Screen                             |                                                     |                                                       |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| ![High Fidelity Payment Screen](<High Fidelity/9. Payment Screen.png>) | ![High Fidelity Payment Confirmation Screen](<High Fidelity/10. Payment Confirmed Screen.png>) |                                                       |                                                       |
+| ![High Fidelity Payment Screen](<High Fidelity/9. Payment Screen.png>) | ![High Fidelity Payment Confirmation Screen](<High Fidelity/10. Payment Confirmed Screen.png>) | ![High Fidelity Desktop Screen](<High Fidelity/11. desktop.png>)  |                                                       |
 
 ---
 
@@ -33,4 +33,4 @@
 
 | Settings Screen                                      |                                                      |                                                     |                                                       |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| ![Low Fidelity Settings Screen](<Low Fidelity/9. User Profile Screen real.png>) |                                                       |                                                       |                                                       |
+| ![Low Fidelity Settings Screen](<Low Fidelity/9. User Profile Screen real.png>) |   ![Low fi Screen](<>)                                                  |                                                       |                                                       |
