@@ -13,7 +13,7 @@
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | ![Search Page Screen](<High Fidelity/5. Search Page.png>) | ![High Fidelity Chatbot Screen](<High Fidelity/6. ChatBot.png>) | ![High Fidelity Bookmarks Screen](<High Fidelity/7. Bookmarks.png>) | ![High Fidelity Start Page](<High Fidelity/8. Start page.png>) |
 
-| Payment Screen                                       | Payment Confirmation Screen                             |                                                     |                                                       |
+| Payment Screen                                       | Payment Confirmation Screen                             |           Desktop Screen                                          |                                                       |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | ![High Fidelity Payment Screen](<High Fidelity/9. Payment Screen.png>) | ![High Fidelity Payment Confirmation Screen](<High Fidelity/10. Payment Confirmed Screen.png>) | ![High Fidelity Desktop Screen](<High Fidelity/11. desktop.png>)  |                                                       |
 
@@ -33,4 +33,4 @@
 
 | Settings Screen                                      |                                                      |                                                     |                                                       |
 |------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| ![Low Fidelity Settings Screen](<Low Fidelity/9. User Profile Screen real.png>) |   ![Low fi Screen](<>)                                                  |                                                       |                                                       |
+| ![Low Fidelity Settings Screen](<Low Fidelity/9. User Profile Screen real.png>) |                                               |                                                       |                                                       |
